@@ -8,4 +8,5 @@ Exploring AI and Machine Learning through practical projects, experimentation, a
 
 * Machine Learning & Deep Learning
 * Generative AI & LLMs
-* ML Ops
+* RAGs
+* Agentic Ai
